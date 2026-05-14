@@ -2,6 +2,8 @@
 they operate by ionizing propellant (usually xenon) and producing plasma, which can be manipulated by electric and magnetic fields to form thrust. My model utilizes the same mechanism to create ionic thrust without using any gases.
 
 #WORKING
+
+
 <img width="788" height="138" alt="image" src="https://github.com/user-attachments/assets/3ea05613-2645-43f5-a627-d1b6d7ac66c8" />
 In an ion thruster powered by a 400kV transformer, thrust is generated through a simple but powerful setup
 that relies solely on electric current—no separate fuel supply is needed. The high-voltage transformer creates
@@ -18,6 +20,10 @@ and thrust without the weight or complexity of a separate gas supply. While the 
 highly efficient and ideal for certain applications where continuous, reliable propulsion is beneficial.
 
 #SETUP
+
+
+
+
 <img width="532" height="446" alt="image" src="https://github.com/user-attachments/assets/075fc93a-a8cf-4dcf-b004-f37dc1b4a861" />
 
 
@@ -25,7 +31,10 @@ highly efficient and ideal for certain applications where continuous, reliable p
 
 
 
+
+
 #BOM
+
 1. Li-iON battery
 2. couple of wires
 3. copper tubes
