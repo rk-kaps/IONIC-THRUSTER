@@ -1,8 +1,0 @@
-Item No.,Component,Description,Quantity,Estimated Price (INR),Buy Link,Notes
-1,Li-Ion Battery (18650 3.7V),3.7V 2500mAh rechargeable Li-ion cell — powers the HV transformer,1,₹81–₹124,https://robocraze.com/products/3-7v-2500mah-18650-li-ion-battery,Remove protection board before use; 2000mAh+ recommended
-2,Copper Wire (bare/stranded),Used as the emitter electrode; exposed wire gives best corona discharge,1 (small spool),₹50–₹100,https://www.amazon.in/copper-wire/s?k=bare+copper+wire,Thin gauge works best; thinner = stronger field concentration
-3,Copper Tube,Cylindrical housing to channel and focus ion wind output,1 piece,₹80–₹150,https://www.amazon.in/Copper-Tube/s?k=Copper+Tube,Any small diameter tube from hardware/plumbing store works
-4,Copper Sheet / Ring,Shaped into a ring and attached to the cylinder as the conductor surface,1 sheet,₹150–₹300,https://www.amazon.in/copper-sheet-metal/s?k=copper+sheet+metal,Can be hand-rolled; smooth edges are important for even field distribution
-5,3V–400kV DC Boost Step-Up Transformer,High voltage generator module; steps 3V input up to ~400kV pulse output,1,₹699,https://www.flipkart.com/sp-electron-dc-3v-400kv-400000-boost-step-up-power-module-high-voltage-generator-electronic-components-hobby-kit/p/itm598a2b80159ff,DANGER: 400kV output. Use only with extreme caution. Limit use to under 1 min continuous.
-,,,,,,
-,,TOTAL (approx.),,₹1060–₹1373,,
