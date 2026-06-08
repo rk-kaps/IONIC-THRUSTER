@@ -1,0 +1,30 @@
+Main Components
+
+Frame
+5v to 400kv DC converter
+Li-ion battery 18650
+copper wire emitter
+Copper ring *Copper Tube
+DIY test stand
+some gloves
+Assembly Overview
+Use strands of copper wire to form the emitter needle.
+
+Mount the emitter outside the frame.
+
+Install the copper tube around the outer outer electroplated tube.
+
+Connect the emmiter wire to the transformer
+
+Battery ---> Tranformer
+Transfoermer ---> emitter needle
+Emitter ---> Conducting module
+Mount the thruster** on a diy test stand using insulating materials.
+
+Insulate all exposed HV connections** with silicone or hot glue.(OPTIONAL :) JK )
+
+Testing
+Turn on the system and check for a faint corona glow.
+Use lightweight objects to observe airflow.
+A helium balloon can be used to visualize the generated thrust.
+Typical thrust is only a few grams-force, suitable for demonstrations
